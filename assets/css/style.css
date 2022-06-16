@@ -177,6 +177,9 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
 }
 
+/**
+* Mobile Navigation 
+*/
 .mobile-nav-toggle {
   position: fixed;
   right: 10px;
@@ -219,14 +222,7 @@ h1, h2, h3, h4, h5, h6 {
     padding-left: 160px;
   }
 }
-#hero:before {
-  content: "";
-  position: absolute;
-  bottom: 0;
-  top: 0;
-  left: 0;
-  right: 0;
-}
+
 #hero h1 {
   margin: 0;
   font-size: 64px;
@@ -583,6 +579,9 @@ section {
   right: 15px;
 }
 
+/*--------------------------------------------------------------
+# Portfolio Details
+--------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
 }
