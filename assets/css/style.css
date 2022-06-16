@@ -177,9 +177,6 @@ h1, h2, h3, h4, h5, h6 {
   display: block;
 }
 
-/**
-* Mobile Navigation 
-*/
 .mobile-nav-toggle {
   position: fixed;
   right: 10px;
@@ -586,9 +583,6 @@ section {
   right: 15px;
 }
 
-/*--------------------------------------------------------------
-# Portfolio Details
---------------------------------------------------------------*/
 .portfolio-details {
   padding-top: 40px;
 }
