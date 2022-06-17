@@ -245,6 +245,15 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 992px) {
   #hero {
     text-align: center;
+    text-align-last: center;
+ 
+  }
+  .background {
+    width: 107%;
+    height: 100vh;
+    background: url("../img/Red\ and\ Navy\ Simple\ and\ Modern\ Optimize\ Business\ Website\ .png") top right no-repeat;
+    background-size: cover;
+    position: relative;
   }
   #hero h1 {
     padding-bottom: 7px;
